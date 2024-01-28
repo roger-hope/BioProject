@@ -457,6 +457,9 @@ $RECYCLE.BIN/
 ## Umbraco CMS
 ##
 
+# Project file settings
+BioProject.sln
+
 # JSON schema files for appsettings.json
 appsettings-schema.json
 appsettings-schema.*.json
